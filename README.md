@@ -9,9 +9,34 @@ To analyze employee salary and performance data and generate insights that suppo
 - NumPy
 
 ## Project Phases
-1. Data Loading and Cleaning
-2. Exploratory Data Analysis
-3. Insights and Recommendations
+### Phase 1: Data Loading & Cleaning
+- Loaded and inspected raw employee data
+- Handled missing values using appropriate statistical methods
+- Standardized column names for consistency
+- Validated data ranges for age, salary, and performance scores
+
+### Phase 2: Exploratory Data Analysis
+- Analyzed overall salary and performance trends
+- Performed department-wise and city-wise salary analysis
+- Examined salary vs performance alignment
+- Studied experience-based salary patterns
+- Identified high performers and compensation alignment
+- Detected employees earning above department average salaries
+
+### Phase 3: Insights & Recommendations
+- Summarized key organizational insights
+- Highlighted potential retention risks
+- Suggested high-level, non-intrusive recommendations for compensation fairness and workforce planning
+
+---
+
+## Key Insights
+- Salary and performance are not always perfectly aligned across departments
+- Some high-performing employees are compensated below the company average
+- Salary generally increases with experience, though inconsistently
+- Compensation varies across cities, reflecting geographic cost differences
+
+---
 
 ## Key Outcomes
 - Identified salary and performance patterns
@@ -20,3 +45,9 @@ To analyze employee salary and performance data and generate insights that suppo
 
 ## Relevance
 This project demonstrates real-world data analysis skills aligned with business decision-making, suitable for professional and internship environments.
+
+---
+
+## Notes
+- The dataset used is synthetic and created for academic and learning purposes.
+- No personally identifiable or sensitive real-world data is included.
