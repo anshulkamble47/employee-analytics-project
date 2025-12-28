@@ -7,6 +7,7 @@ To analyze employee salary and performance data and generate insights that suppo
 - Python
 - Pandas
 - NumPy
+- Matplotlib
 
 ## Project Phases
 ### Phase 1: Data Loading & Cleaning
@@ -23,7 +24,12 @@ To analyze employee salary and performance data and generate insights that suppo
 - Identified high performers and compensation alignment
 - Detected employees earning above department average salaries
 
-### Phase 3: Insights & Recommendations
+### Phase 3: Data Visualization
+- Visualized salary distribution using histograms and boxplots
+- Analyzed relationship between age and salary using scatter plots
+- Visualized performance score distribution to understand workforce performance spread
+
+### Phase 4: Insights & Recommendations
 - Summarized key organizational insights
 - Highlighted potential retention risks
 - Suggested high-level, non-intrusive recommendations for compensation fairness and workforce planning
@@ -44,7 +50,7 @@ To analyze employee salary and performance data and generate insights that suppo
 - Provided business-friendly recommendations
 
 ## Relevance
-This project demonstrates real-world data analysis skills aligned with business decision-making, suitable for professional and internship environments.
+This project demonstrates real-world data analysis and visualization skills aligned with business decision-making, suitable for professional and internship environments.
 
 ---
 
