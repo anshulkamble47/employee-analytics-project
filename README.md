@@ -8,6 +8,7 @@ To analyze employee salary and performance data and generate insights that suppo
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 
 ## Project Phases
 ### Phase 1: Data Loading & Cleaning
